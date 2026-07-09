@@ -30,6 +30,6 @@ I write (mostly in Traditional Chinese) about rehab medicine, AI knowledge workf
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-chen-1204/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Po--Wei_Chen-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Po-Wei-Chen-5/research)
 
-If any of these tools saved you some time, you can [**buy me a bubble tea** 🧋](https://bobaboba.me/drpwchen) — it keeps the homelab humming.
+If any of these tools saved you some time, you can [**buy me a boba** 🧋](https://drpwchen.bobaboba.me) — it keeps the homelab humming.
 
-[![Buy me a bubble tea](https://img.shields.io/badge/🧋_請我喝杯珍奶-bobaboba.me/drpwchen-C89F7B?style=for-the-badge)](https://bobaboba.me/drpwchen)
+[![Give me a Boba!](https://img.shields.io/badge/🧋_Give_me_a_Boba!-AD5138?style=for-the-badge)](https://drpwchen.bobaboba.me)
