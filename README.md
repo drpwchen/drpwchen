@@ -32,4 +32,4 @@ I write (mostly in Traditional Chinese) about rehab medicine, AI knowledge workf
 
 If any of these tools saved you some time, you can [**buy me a boba** 🧋](https://drpwchen.bobaboba.me) — it keeps the homelab humming.
 
-[![Give me a Boba!](https://img.shields.io/badge/🧋_Give_me_a_Boba!-AD5138?style=for-the-badge)](https://drpwchen.bobaboba.me)
+<a href="https://drpwchen.bobaboba.me"><img src="https://s3.ap-southeast-1.amazonaws.com/media.anyonelab.com/images/boba/boba-embed-icon.png" height="36" alt="boba icon" align="middle"> <img src="https://img.shields.io/badge/BUY_ME_A_BOBA-F8E0BE?style=for-the-badge" height="36" alt="BUY ME A BOBA" align="middle"></a>
