@@ -6,7 +6,7 @@ I'm a rehabilitation physician who codes. My favorite problems live at the inter
 
 - 🏥 **By day** — physiatrist at Hualien Tzu Chi Hospital: musculoskeletal ultrasound, manual therapy, sports medicine
 - 🔬 **By training** — evidence-based medicine: meta-analysis, critical appraisal, national health-insurance database research
-- 🤖 **By night** — building AI-powered study & research pipelines with Claude Code, Obsidian, and a homelab that runs on YAML
+- 🤖 **By night** — building AI-powered study & research pipelines with Claude Code, Obsidian, and a homelab
 
 ## 🚀 What I build
 
@@ -21,7 +21,7 @@ Everything here is exhaust from my real daily workflow — I build tools to use 
 
 ## ✍️ Writing
 
-I write (mostly in Traditional Chinese) about evidence-based rehab medicine, AI knowledge workflows, and self-hosting at **[drpwchen.com](https://drpwchen.com)** — how each tool above was built, what broke along the way, and what I'd do differently.
+I write (mostly in Traditional Chinese) about rehab medicine, AI knowledge workflows, and self-hosting at **[drpwchen.com](https://drpwchen.com)** — how each tool above was built, what broke along the way, and what I'd do differently.
 
 ## 📫 Find me
 
