@@ -15,6 +15,7 @@ Everything here is exhaust from my real daily workflow — I build tools to use 
 | Project | What it does |
 |---|---|
 | 📡 [**paper-radar**](https://github.com/drpwchen/paper-radar) | Personal literature radar — journal/PubMed feeds → interest-scored triage site → straight into your notes. *Discovery end of my paper pipeline.* |
+| ⬇️ [**paper-fetch**](https://github.com/drpwchen/paper-fetch) | Publisher-aware full-text fetcher — DOI in, PDF out, via open access → publisher TDM APIs → your own institutional proxy. *Download end of the pipeline.* |
 | 📖 [**paper-review-and-digest**](https://github.com/drpwchen/paper-review-and-digest) | Claude Code skills for journal-club-grade paper appraisal (deterministic GRADE + CrossRef gate) and fast content digest. *Reading end of the pipeline.* |
 | 🔍 [**vault-search**](https://github.com/drpwchen/vault-search) | Local-first semantic search, related notes & RAG chat for Obsidian — plugin + MCP server over one LanceDB + Ollama index. |
 | 📝 [**exam-practice**](https://github.com/drpwchen/exam-practice) | Self-hostable past-exam practice platform driven by FSRS spaced repetition, built for medical board prep. |
