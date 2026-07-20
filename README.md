@@ -17,6 +17,7 @@ Everything here is exhaust from my real daily workflow — I build tools to use 
 | 📡 [**paper-radar**](https://github.com/drpwchen/paper-radar) | Personal literature radar — journal/PubMed feeds → interest-scored triage site → straight into your notes. *Discovery end of my paper pipeline.* |
 | ⬇️ [**paper-fetch**](https://github.com/drpwchen/paper-fetch) | Publisher-aware full-text fetcher — DOI in, PDF out, via open access → publisher TDM APIs → your own institutional proxy. *Download end of the pipeline.* |
 | 📖 [**paper-review-and-digest**](https://github.com/drpwchen/paper-review-and-digest) | Claude Code skills for journal-club-grade paper appraisal (deterministic GRADE + CrossRef gate) and fast content digest. *Reading end of the pipeline.* |
+| 📚 [**textbook-to-note**](https://github.com/drpwchen/textbook-to-note) | Turn your own PDF textbooks into an AI-searchable knowledge base and structured, fully-cited notes — figures included. Local-first, token-frugal. *The tool that carried me through board exam prep.* |
 | 🎙️ [**asr-benchmark**](https://github.com/drpwchen/asr-benchmark) | Score speech-recognition models on *your own* audio with no ground-truth transcript — build a lexicon from your field's literature, then measure real terms captured vs hallucinated. |
 | 🔍 [**vault-search**](https://github.com/drpwchen/vault-search) | Local-first semantic search, related notes & RAG chat for Obsidian — plugin + MCP server over one LanceDB + Ollama index. |
 | 📝 [**exam-practice**](https://github.com/drpwchen/exam-practice) | Self-hostable past-exam practice platform driven by FSRS spaced repetition, built for medical board prep. |
@@ -24,6 +25,8 @@ Everything here is exhaust from my real daily workflow — I build tools to use 
 ## ✍️ Writing
 
 I write (mostly in Traditional Chinese) about rehab medicine, AI knowledge workflows, and self-hosting at **[drpwchen.com](https://drpwchen.com)** — how each tool above was built, what broke along the way, and what I'd do differently.
+
+> 🧰 **Full inventory**: everything I actually use — AI assistants, ASR/OCR engines, free hosting, homelab, backup — is catalogued by purpose in [my AI toolbox](https://drpwchen.com/posts/my-ai-toolbox/).
 
 ## 📫 Find me
 
