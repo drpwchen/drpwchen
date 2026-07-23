@@ -32,7 +32,7 @@ I write (mostly in Traditional Chinese) about rehab medicine, AI knowledge workf
 
 [![Blog](https://img.shields.io/badge/Blog-drpwchen.com-2E7D32?style=for-the-badge&logo=hugo&logoColor=white)](https://drpwchen.com)
 [![Facebook](https://img.shields.io/badge/Facebook-陳柏威-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/paul.chen.pwc/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-chen-1204/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drpwchen/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Po--Wei_Chen-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Po-Wei-Chen-5/research)
 
 If any of these tools saved you some time, you can [**buy me a boba** 🧋](https://drpwchen.bobaboba.me) — it keeps the homelab humming.
